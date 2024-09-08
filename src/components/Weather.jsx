@@ -59,7 +59,7 @@ const Weather = () => {
         }
     }
      useEffect(()=>{
-        search("London");
+        search("Tokyo");
      },[])
 
   return (
